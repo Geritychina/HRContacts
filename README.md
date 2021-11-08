@@ -4,4 +4,6 @@ HRContacts :robot: <br>
 
 📌 HRContacts is simple android project with CRUD operation, SQLite 3 database and e-mail, phone number validation <br>
 
+Made with love by Gergana ™
+
 
